@@ -32,6 +32,16 @@
 | `class2/class2_practice6.cpp` | 递归求浮点数幂 |
 | `class2/class2_practice7.cpp` | 递归求幂：double 支持负指数，long long 仅非负指数 |
 
+### 第三次课（static / 友元）
+
+| 文件 | 内容 |
+|---|---|
+| `class3/class3_practice1.cpp` | static 数据成员：统计创建的对象个数 |
+| `class3/class3_practice2.cpp` | static 数据成员 + 成员函数 |
+| `class3/class3_practice3.cpp` | 全局变量与局部变量的作用域 |
+| `class3/class3_practice4.cpp` | static 成员函数的调用 |
+| `class3/class3_practice5.cpp` | 友元的三种写法：友元成员函数 / 友元类 / 友元全局函数 |
+
 ## 编译与运行
 
 ```bash
