@@ -42,6 +42,19 @@
 | `class3/class3_practice4.cpp` | static 成员函数的调用 |
 | `class3/class3_practice5.cpp` | 友元的三种写法：友元成员函数 / 友元类 / 友元全局函数 |
 
+### 第四次课（指针与迭代器）
+
+| 文件 | 内容 |
+|---|---|
+| `class4/class4_practice1.cpp` | 指针 `++` / `--` 与数组步长，越界访问演示 |
+| `class4/class4_practice2.cpp` | 指针相减，`long*` 强转后相减单位的变化 |
+| `class4/class4_practice3.cpp` | 数组作实参传给指针形参，const 形参 |
+| `class4/class4_practice4.cpp` | `min_element` 返回迭代器与 `vector::erase` |
+| `class4/class4_practice5.cpp` | 指针保存地址：变量改值后 `*p` 随之更新 |
+| `class4/class4_practice6.cpp` | 结构体成员指针与函数默认参数 |
+| `class4/class4_practice7.cpp` | `const char*` 遍历字符串，统计非空格字符 |
+| `class4/class4_practice8.cpp` | 递归：斐波那契数列与字符串反转 |
+
 ## 编译与运行
 
 ```bash
